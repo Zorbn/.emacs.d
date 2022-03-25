@@ -1,0 +1,4 @@
+1. python-mode, pyvenv, dap, company(-box), (counsel-)projectile
+2. Counsel, ivy
+3. Magit, Forge
+4. ORG
